@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: wheat;
+    background-color: #2548;
     flex-direction: column;
 
 }
@@ -18,11 +18,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aliceblue;
-    border: 10px solid rgb(238, 14, 14);
-    border-radius: 30px;
-    width: 350px;
-    height: 250px;
+    background-color: rgb(181, 211, 238);
+    border: 10px solid rgb(49, 27, 27);
+    border-radius: 100%;
+    width: 450px;
+    height: 450px;
     font-size: 85px;
 }
 footer{
